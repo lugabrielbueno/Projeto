@@ -1,6 +1,5 @@
-# Training and studying
+# Practice
  
- First repository
 
  Repository designed to contain all my progress in development, such as exercises, small projects and some examples of classes.
 Among the projects contained in this repository, all were completed in less than 1 day.
